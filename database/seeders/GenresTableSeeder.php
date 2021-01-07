@@ -19,9 +19,9 @@ class GenresTableSeeder extends Seeder
         $faker = \Faker\Factory::create();
 
         // Crear generos en la tabla
-            Genre::create([
-                'name'=> 'Action'
-            ]);
+        Genre::create([
+            'name'=> 'Action'
+        ]);
         Genre::create([
             'name'=> 'Comedy'
         ]);
