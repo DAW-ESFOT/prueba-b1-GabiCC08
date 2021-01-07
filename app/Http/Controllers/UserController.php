@@ -25,4 +25,7 @@ class UserController extends Controller
         $user->delete();
         return response()->json(null, 204);
     }
+//    public function ShowByUser(User $user){
+//
+//    }
 }

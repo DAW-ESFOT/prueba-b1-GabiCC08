@@ -21,11 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c5f5acc3-f5be-4158-bfa3-2a00b90c522f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2021_01_06_192339_create_genre_user_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_06_192339_create_genre_user_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/GenresTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/GenresTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/MoviesTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/MoviesTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/UsersTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/UsersTableSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/MovieController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/MovieController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609973530430</updated>
-      <workItem from="1609973531566" duration="9983000" />
+      <workItem from="1609973531566" duration="11016000" />
     </task>
     <servers />
   </component>

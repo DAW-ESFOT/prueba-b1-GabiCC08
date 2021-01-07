@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Genre;
 use App\Models\Movie;
 use Illuminate\Http\Request;
 
@@ -25,4 +26,5 @@ class MovieController extends Controller
         $movie->delete();
         return response()->json(null, 204);
     }
+
 }
